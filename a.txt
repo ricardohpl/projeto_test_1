@@ -5,3 +5,4 @@ agora tem algo
 a testando merge
 
 agora envia funcionalidade x
+nova funcionalidade b
